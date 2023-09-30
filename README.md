@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I'm working at Bilibili Inc. as a full stack web developer.
+- 🔭 I'm currently self-employed as a full stack web developer.
 - 😄 I'm using React, Typescript and GraphQL.
 - 🌱 I'm learning Rust.
 
